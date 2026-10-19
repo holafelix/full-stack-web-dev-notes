@@ -1,2 +1,2 @@
-/ ==== this file is for Weekly Review ==== / 
+# ==== this file is for Weekly Review ==== #
 
